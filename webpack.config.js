@@ -239,7 +239,7 @@ function getDevServerConfig() {
                 warnings: false
             }
         },
-        host: '172.31.112.1',
+        host: '192.168.0.36',
         hot: true,
         proxy: [
             {
